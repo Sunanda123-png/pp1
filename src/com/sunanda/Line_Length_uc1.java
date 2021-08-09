@@ -18,7 +18,7 @@ public class Line_Length_uc1 {
 
 
         length=Math.sqrt((x2-x1)^2+(y2-y1)^2);
-        System.out.println("The Length of line is = "+length);
+        System.out.println("Length of line is = "+length);
 
 
 
