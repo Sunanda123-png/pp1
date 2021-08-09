@@ -1,4 +1,5 @@
 package com.sunanda;
+import java.util.Objects;
 import java.util.Scanner;
 
 public class Line_Length_uc1 {
@@ -17,10 +18,10 @@ public class Line_Length_uc1 {
         int y2=ln.nextInt();
 
 
-        length=Math.sqrt((x2-x1)^2+(y2-y1)^2);
+        length= Math.sqrt((x2-x1)^2+(y2-y1)^2);
         System.out.println("Length of line is = "+length);
 
-
+      
 
 
 
